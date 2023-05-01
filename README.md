@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcdroog
-- 👀 I’m interested in GCP and Web3 
-- 🌱 I’m always learning about the above and move. I love to study every day
+- 👀 I’m interested in GCP Google, Crypto/Web3 and AI 
+- 🌱 I’m always learning about the above and more. I love to study every day
 - 💞️ As a freelance GCP Solution Architect I’m looking to collaborate on projects
 - 📫 Reach me at marc.droog@droogwerk.nl
 
